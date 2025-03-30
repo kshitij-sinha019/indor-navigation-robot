@@ -1,0 +1,10 @@
+Overview: Arduino-based robot for indoor navigation and obstacle avoidance.
+
+Features: Uses ultrasonic sensor for distance measurement and motor control for movement.
+
+Components: Arduino, HC-SR04 sensor, L298N motor driver, DC motors, battery.
+
+Setup: Connect components, upload indoor_nav_robot.ino, and run.
+
+Usage: Moves forward; stops and turns if an obstacle is detected.
+
